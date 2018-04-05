@@ -1,0 +1,1 @@
+A repository for random scraps of code I'll probably reuse someday.
